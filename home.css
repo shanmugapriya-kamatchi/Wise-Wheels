@@ -27,7 +27,7 @@
             padding: 0;
           }
           .img{
-            background-image: url(images/car.jpeg);
+            background-image: url(car.jpeg);
             height: 100%;
             background-position: center;
             background-repeat: no-repeat;
